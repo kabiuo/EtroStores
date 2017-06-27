@@ -1,0 +1,107 @@
+.hide{
+	width: 100%;
+	height: 100%;
+	background-color: bisque;
+}
+
+.hide-s{
+	margin: 0 auto;
+	width: 93.8%;
+	height: 630px;
+}
+
+.left-mune{
+	width: 15%;/*19.625*/
+	height: 80%;
+	background-color: blue;
+	float: left;
+}
+
+.hide-in{
+	float: left;
+	width: 70%;
+	height: 80%;
+	background-color: brown;
+}
+
+.hide-in-top{
+	width: 100%;
+	height: 75%;
+	background-color: darkcyan;
+}
+
+.hide-in-bottom{
+	width: 100%;
+	height: 25%;
+	background-color: deeppink;
+}
+
+.hib{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.right-mune{
+	width: 15%;
+	height: 80%;
+	background-color: blue;
+	float: left;
+}
+
+.rtm-top{
+	width: 100%;
+	height: 75%;
+	background-color: purple;
+}
+
+.rtm-bottom{
+	width: 100%;
+	height: 25%;
+	background-color: darkslategray;
+}
+
+.bottom{
+	float: left;
+	width: 100%;
+	height: 20%;
+}
+
+.bottom-a{
+	width: 25%;
+	height: 100%;
+	float: left;
+	background-color: rgba(0,0,0,0.1);
+}
+
+.wrap{
+	float: left;
+	width: 100%;
+	height: 33.33333%;
+}
+
+.wrap i{
+	width: 12%;
+	height: 10%;
+	line-height: 40px;
+	color: darksalmon;
+}
+
+.wrap-icon{
+	float: left;
+	width: 12%;
+	height: 100%;
+	line-height: 40px;
+	padding-left: 8%;
+}
+
+.wrap-p{
+	float: left;
+	width: 80%;
+	height: 100%;
+}
+
+.wrap-p p{
+	text-align: center;
+	line-height: 40px;
+}

@@ -1,0 +1,24 @@
+
+#box ul {
+	margin: 0;
+	padding-left: 0;
+	position: relative;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+#box li {
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+
+#box li:not(:first-child) {
+	display: none;
+}
+
+#box img{
+	width: 100%;
+	height: 100%;
+}
