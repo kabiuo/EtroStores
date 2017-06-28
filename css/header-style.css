@@ -1,0 +1,80 @@
+.header{
+	width: 100%;
+	height: 170px;
+	background-color: bisque;
+	padding-top: 30px;
+	box-sizing: border-box;
+}
+
+.header-main{
+	width: 100%;
+	height: 50px;
+	background-color: bisque;
+}
+
+.header-logo{
+	width: 256px;
+	height: 44px;
+	margin-left: 60px;
+	float: left;
+}
+
+.top-entry{
+	margin: 0 auto;
+	width: 495px;
+	height: 50px;
+}
+
+.top-entry input{
+	width: 270px;
+	height: 50px;
+	border: none;
+	background-color: rgba(0,0,0,0.1);
+	font-size: 16px;
+	float: left;
+}
+
+.top-entry select{
+	width: 166px;
+	height: 50px;
+	border: none;
+	background-color: rgba(0,0,0,0.1);
+	float: left;
+}
+
+.top-entry button{
+	width: 49px;
+	height: 50px;
+	border: none;
+	background-color: rgba(0,0,0,0.2);
+	float: left;
+}
+
+.top-entry i{
+	color:  honeydew;
+}
+
+.header-foot{
+	margin-top: 32px;
+	width: 100%;
+	height: 50px;
+}
+
+.cen{
+	width: 93.8%;
+	height: 50px;
+	background-color: darksalmon;
+	margin: 0 auto;
+	border-radius: 6px;
+}
+
+.lattice{
+	width: 122.56px;
+	height: 50px;
+	float: left;
+	line-height: 50px;
+	text-align: center;
+	margin-left: 8px;
+	border-radius: 6px;
+	color: ghostwhite;
+}
