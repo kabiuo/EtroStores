@@ -7,33 +7,82 @@
 .hide-s{
 	margin: 0 auto;
 	width: 93.8%;
-	height: 630px;
+	height: 700px;
 }
 
 .left-mune{
 	width: 15%;/*19.625*/
 	height: 80%;
-	background-color: blue;
+	background-color: darksalmon;
 	float: left;
+}
+
+.letm-top{
+	width: 100%;
+	height: 15%;
+	background-color: rgb(47, 46, 46);
+}
+
+.letm-center{
+	width: 100%;
+	height: 8.5%;
+	float: left;
+}
+
+.lec-color{
+	width: 2%;
+	height: 100%;
+	float: left;
+}
+
+.lec-title{
+	float: left;
+	width: 98%;
+	height: 100%;
+	text-align: center;
+	line-height: 40px;
+}
+
+.letm-tit{
+	width: 80%;
+	height: 33.3333%;
+	margin: 0 auto;
+}
+
+.letm-icon{
+	width: 18%;
+	height: 100%;
+	padding-left: 15px;
+	float: left;
+	color: darksalmon;
+}
+
+.letm-class{
+	width: 40%;
+	height: 100%;
+	float: left;
+	color: honeydew;
+}
+
+.letm-class p{
+	text-align: center;
+	line-height: 24px;
 }
 
 .hide-in{
 	float: left;
 	width: 70%;
 	height: 80%;
-	background-color: brown;
 }
 
 .hide-in-top{
 	width: 100%;
 	height: 75%;
-	background-color: darkcyan;
 }
 
 .hide-in-bottom{
 	width: 100%;
 	height: 25%;
-	background-color: deeppink;
 }
 
 .hib{
@@ -45,20 +94,17 @@
 .right-mune{
 	width: 15%;
 	height: 80%;
-	background-color: blue;
 	float: left;
 }
 
 .rtm-top{
 	width: 100%;
 	height: 75%;
-	background-color: purple;
 }
 
 .rtm-bottom{
 	width: 100%;
 	height: 25%;
-	background-color: darkslategray;
 }
 
 .bottom{
@@ -71,7 +117,7 @@
 	width: 25%;
 	height: 100%;
 	float: left;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(0,0,0,0.2);
 }
 
 .wrap{
